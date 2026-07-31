@@ -6,6 +6,7 @@ Passionné par l'écosystème **Open Source**, le **Self-Hosting** et le dévelo
 💡 **En constante apprentissage :** Je débute sur pas mal de sujets et je suis là pour apprendre ! Si vous avez des conseils, des bonnes pratiques à partager ou des retours sur mes projets, je suis carrément preneur. 🚀
 ---
 
+<!--
 ### 🛠️ Ce que je manipule au quotidien
 
 - **Développement :** Python, JavaScript / TypeScript, Next.js, HTML/CSS
@@ -14,6 +15,7 @@ Passionné par l'écosystème **Open Source**, le **Self-Hosting** et le dévelo
 - **CMS & Web :** WordPress, Tailwind CSS
 
 ---
+-->
 
 ### 🚀 Projets & Réalisations
 
